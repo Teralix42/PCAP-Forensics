@@ -4,9 +4,25 @@ from scapy.layers.tls.all import TLSClientHello
 from colorama import Fore, Style
 import socket
 import re, subprocess
+import csv
 
 VENDORS = {}
 MAC_CACHE = {}
+PORT_LOOKUP = {}
+
+with open("service-names-port-numbers.csv", newline='', encoding='utf-8') as csvfile:
+	reader = csv.DictReader(csvfile)
+	for row in reader:
+		port_str = row['Port Number']
+		proto = row['Transport Protocol'].lower()
+		desc = row['Description']
+
+		if '-' in port_str:  # range
+			start, end = map(int, port_str.split('-'))
+			for p in range(start, end+1):
+				PORT_LOOKUP[(p, proto)] = desc
+		elif port_str:
+			PORT_LOOKUP[(int(port_str), proto)] = desc
 
 def get_mac(ip):
 	try:
@@ -107,7 +123,15 @@ def parse_packet(pkt, local_ip, terminal=True):
 	if (dport not in [53, 80, 443, 5353] 
 			and dport < 49152
 			and dport != 0):
-		alerts.append("[ALERT] Unusual port {}".format(dport if dport else sport))
+		desc = PORT_LOOKUP.get((dport, proto.lower()), "Unknown")
+		alerts.append(f"[ALERT] Unusual port {dport} ({desc})")
+		if terminal:
+			alerts = [color(a, Fore.RED) for a in alerts]
+	if (sport not in [53, 80, 443, 5353] 
+			and sport < 49152
+			and sport != 0):
+		desc = PORT_LOOKUP.get((sport, proto.lower()), "Unknown")
+		alerts.append(f"[ALERT] Unusual port {sport} ({desc})")
 		if terminal:
 			alerts = [color(a, Fore.RED) for a in alerts]
 
@@ -117,8 +141,10 @@ def parse_packet(pkt, local_ip, terminal=True):
 	if vendor:
 		vendor_info = f" | Vendor: {vendor}"
 
+	dport_desc = PORT_LOOKUP.get((dport, proto.lower()), "Unknown")
+	sport_desc = PORT_LOOKUP.get((sport, proto.lower()), "Unknown")
 	# Table-like output
-	line = f"{('['+direction_c+']'):<14} {src:<15} → {dst:<15} | {proto_c} {sport:>5} → {dport:<5} | {length:>6}B"
+	line = f"{('['+direction_c+']'):<14} {src:<15} → {dst:<15} | {proto_c:<15} {f'{sport} ({sport_desc})':>38} → {f'{dport} ({dport_desc})':<38} | {length:>6}B"
 	if extra: line += f" | {extra}"
 	if vendor_info: line += vendor_info
 
