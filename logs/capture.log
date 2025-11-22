@@ -1,0 +1,303 @@
+[IN]  199.46.35.127   → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 64864 (Unknown)                        |     24B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 199.46.35.127   | TCP                           64864 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1460B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |   1452B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[OUT] 192.168.1.39    → 192.168.1.255   | UDP                             889 (Unknown) → 889 (Unknown)                          |   1420B
+[ALERT] Unusual port 889 (Unknown)
+[ALERT] Unusual port 889 (Unknown)
+[IN]  3.220.254.12    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 59017 (Unknown)                        |      0B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 3.220.254.12    | TCP                           59017 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-3-220-254-12.compute-1.amazonaws.com
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     44B | Domain: mdns.mcast.net
+[IN]  192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     44B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     44B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.252     | UDP                           61192 (Unknown) → 5355 (LLMNR)                           |     44B
+[ALERT] Unusual port 5355 (LLMNR)
+[OUT] 192.168.1.39    → 174.129.217.74  | TCP                           55777 (Unknown) → 443 (http protocol over TLS/SSL)       |     36B | Domain: ec2-174-129-217-74.compute-1.amazonaws.com
+[IN]  174.129.217.74  → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 55777 (Unknown)                        |      0B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 103.10.124.5    | TCP                           51871 (Unknown) → 27019 (Unknown)                        |     54B | Domain: 103-10-124-5.valve.net
+[ALERT] Unusual port 27019 (Unknown)
+[IN]  103.10.124.5    → 192.168.1.39    | TCP                           27019 (Unknown) → 51871 (Unknown)                        |      0B | Domain: HUGO-PC
+[ALERT] Unusual port 27019 (Unknown)
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |    300B | Domain: mdns.mcast.net
+[IN]  192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |    300B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |    300B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     43B | Domain: mdns.mcast.net
+[IN]  192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     43B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     43B | Domain: mdns.mcast.net
+[IN]  192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |    300B | Domain: mdns.mcast.net
+[IN]  192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     43B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     43B | Domain: mdns.mcast.net
+[IN]  192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     43B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     43B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     43B | Domain: mdns.mcast.net
+[IN]  192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     43B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     43B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |    413B | Domain: mdns.mcast.net
+[IN]  192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |    413B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |    413B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |    357B | Domain: mdns.mcast.net
+[IN]  192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |    357B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |    357B | Domain: mdns.mcast.net
+[IN]  192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |    357B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 192.168.1.1     | UDP                137 (NETBIOS Name Service) → 137 (NETBIOS Name Service)             |     68B
+[ALERT] Unusual port 137 (NETBIOS Name Service)
+[ALERT] Unusual port 137 (NETBIOS Name Service)
+[IN]  192.168.1.36    → 192.168.1.39    | UDP                               1900 (SSDP) → 58222 (Unknown)                        |    291B | Domain: HUGO-PC
+[ALERT] Unusual port 1900 (SSDP)
+[IN]  192.168.1.36    → 192.168.1.39    | UDP                               1900 (SSDP) → 58222 (Unknown)                        |    300B | Domain: HUGO-PC
+[ALERT] Unusual port 1900 (SSDP)
+[IN]  192.168.1.36    → 192.168.1.39    | UDP                               1900 (SSDP) → 58222 (Unknown)                        |    294B | Domain: HUGO-PC
+[ALERT] Unusual port 1900 (SSDP)
+[OUT] 192.168.1.39    → 192.168.1.1     | UDP                137 (NETBIOS Name Service) → 137 (NETBIOS Name Service)             |     68B
+[ALERT] Unusual port 137 (NETBIOS Name Service)
+[ALERT] Unusual port 137 (NETBIOS Name Service)
+[OUT] 192.168.1.39    → 192.168.1.1     | UDP                137 (NETBIOS Name Service) → 137 (NETBIOS Name Service)             |     68B
+[ALERT] Unusual port 137 (NETBIOS Name Service)
+[ALERT] Unusual port 137 (NETBIOS Name Service)
+[OUT] 192.168.1.39    → 20.50.201.200   | TCP                           59020 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B
+[OUT] 192.168.1.39    → 13.107.5.93     | TCP                           59013 (Unknown) → 443 (http protocol over TLS/SSL)       |      1B
+[OUT] 192.168.1.39    → 174.129.217.74  | TCP                           55777 (Unknown) → 443 (http protocol over TLS/SSL)       |     36B | Domain: ec2-174-129-217-74.compute-1.amazonaws.com
+[IN]  174.129.217.74  → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 55777 (Unknown)                        |      0B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 192.168.1.255   | UDP                             889 (Unknown) → 889 (Unknown)                          |   1420B
+[ALERT] Unusual port 889 (Unknown)
+[ALERT] Unusual port 889 (Unknown)
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     44B | Domain: mdns.mcast.net
+[IN]  192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     44B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.252     | UDP                           57925 (Unknown) → 5355 (LLMNR)                           |     44B
+[ALERT] Unusual port 5355 (LLMNR)
+[OUT] 192.168.1.39    → 40.90.8.18      | TCP                           64863 (Unknown) → 443 (http protocol over TLS/SSL)       |     28B
+[OUT] 192.168.1.39    → 119.46.93.42    | TCP                           59032 (Unknown) → 80 (World Wide Web HTTP)               |      0B | Domain: 119-46-93-42.static.asianet.co.th
+[IN]  119.46.93.42    → 192.168.1.39    | TCP                  80 (World Wide Web HTTP) → 59032 (Unknown)                        |      0B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 119.46.93.42    | TCP                           59032 (Unknown) → 80 (World Wide Web HTTP)               |      0B | Domain: 119-46-93-42.static.asianet.co.th
+[IN]  119.46.93.42    → 192.168.1.39    | TCP                  80 (World Wide Web HTTP) → 59032 (Unknown)                        |      0B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 119.46.93.42    | TCP                           59032 (Unknown) → 80 (World Wide Web HTTP)               |      0B | Domain: 119-46-93-42.static.asianet.co.th
+[OUT] 192.168.1.39    → 119.46.93.42    | TCP                           59032 (Unknown) → 80 (World Wide Web HTTP)               |     94B | Domain: 119-46-93-42.static.asianet.co.th
+[IN]  119.46.93.42    → 192.168.1.39    | TCP                  80 (World Wide Web HTTP) → 59032 (Unknown)                        |      0B | Domain: HUGO-PC
+[IN]  119.46.93.42    → 192.168.1.39    | TCP                  80 (World Wide Web HTTP) → 59032 (Unknown)                        |    179B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 119.46.93.42    | TCP                           59032 (Unknown) → 80 (World Wide Web HTTP)               |      0B | Domain: 119-46-93-42.static.asianet.co.th
+[IN]  119.46.93.42    → 192.168.1.39    | TCP                  80 (World Wide Web HTTP) → 59032 (Unknown)                        |      0B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 119.46.93.42    | TCP                           59032 (Unknown) → 80 (World Wide Web HTTP)               |      0B | Domain: 119-46-93-42.static.asianet.co.th
+[IN]  119.46.93.42    → 192.168.1.39    | TCP                  80 (World Wide Web HTTP) → 59032 (Unknown)                        |      0B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 20.189.173.25   | TCP                           58709 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B
+[IN]  199.46.35.127   → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 64864 (Unknown)                        |     24B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 199.46.35.127   | TCP                           64864 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B
+[IN]  162.159.133.234 → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 60193 (Unknown)                        |     60B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 162.159.133.234 | TCP                           60193 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B
+[OUT] 192.168.1.39    → 119.46.93.42    | TCP                           64977 (Unknown) → 80 (World Wide Web HTTP)               |      0B | Domain: 119-46-93-42.static.asianet.co.th
+[IN]  119.46.93.42    → 192.168.1.39    | TCP                  80 (World Wide Web HTTP) → 64977 (Unknown)                        |      0B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 119.46.93.42    | TCP                           64977 (Unknown) → 80 (World Wide Web HTTP)               |      0B | Domain: 119-46-93-42.static.asianet.co.th
+[OUT] 192.168.1.39    → 119.46.93.42    | TCP                           64977 (Unknown) → 80 (World Wide Web HTTP)               |     94B | Domain: 119-46-93-42.static.asianet.co.th
+[IN]  119.46.93.42    → 192.168.1.39    | TCP                  80 (World Wide Web HTTP) → 64977 (Unknown)                        |      0B | Domain: HUGO-PC
+[IN]  119.46.93.42    → 192.168.1.39    | TCP                  80 (World Wide Web HTTP) → 64977 (Unknown)                        |    179B | Domain: HUGO-PC
+[IN]  119.46.93.42    → 192.168.1.39    | TCP                  80 (World Wide Web HTTP) → 64977 (Unknown)                        |      0B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 119.46.93.42    | TCP                           64977 (Unknown) → 80 (World Wide Web HTTP)               |      0B | Domain: 119-46-93-42.static.asianet.co.th
+[OUT] 192.168.1.39    → 119.46.93.42    | TCP                           64977 (Unknown) → 80 (World Wide Web HTTP)               |      0B | Domain: 119-46-93-42.static.asianet.co.th
+[IN]  119.46.93.42    → 192.168.1.39    | TCP                  80 (World Wide Web HTTP) → 64977 (Unknown)                        |      0B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 54.230.42.86    | TCP                           64978 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: server-54-230-42-86.bkk51.r.cloudfront.net
+[IN]  54.230.42.86    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 64978 (Unknown)                        |      0B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 54.230.42.86    | TCP                           64978 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: server-54-230-42-86.bkk51.r.cloudfront.net
+[OUT] 192.168.1.39    → 54.230.42.86    | TCP                           64978 (Unknown) → 443 (http protocol over TLS/SSL)       |    343B | Domain: server-54-230-42-86.bkk51.r.cloudfront.net
+[IN]  54.230.42.86    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 64978 (Unknown)                        |      0B | Domain: HUGO-PC
+[IN]  54.230.42.86    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 64978 (Unknown)                        |    147B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 54.230.42.86    | TCP                           64978 (Unknown) → 443 (http protocol over TLS/SSL)       |    183B | Domain: server-54-230-42-86.bkk51.r.cloudfront.net
+[IN]  54.230.42.86    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 64978 (Unknown)                        |      0B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 103.10.124.5    | TCP                           51871 (Unknown) → 27019 (Unknown)                        |     54B | Domain: 103-10-124-5.valve.net
+[ALERT] Unusual port 27019 (Unknown)
+[IN]  103.10.124.5    → 192.168.1.39    | TCP                           27019 (Unknown) → 51871 (Unknown)                        |      0B | Domain: HUGO-PC
+[ALERT] Unusual port 27019 (Unknown)
+[IN]  54.230.42.86    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 64978 (Unknown)                        |    363B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 54.230.42.86    | TCP                           64978 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: server-54-230-42-86.bkk51.r.cloudfront.net
+[OUT] 192.168.1.39    → 54.230.42.86    | TCP                           64979 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: server-54-230-42-86.bkk51.r.cloudfront.net
+[IN]  54.230.42.86    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 64979 (Unknown)                        |      0B | Domain: HUGO-PC
+[IN]  54.230.42.86    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 64978 (Unknown)                        |      0B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 54.230.42.86    | TCP                           64978 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: server-54-230-42-86.bkk51.r.cloudfront.net
+[OUT] 192.168.1.39    → 54.230.42.86    | TCP                           64979 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: server-54-230-42-86.bkk51.r.cloudfront.net
+[OUT] 192.168.1.39    → 54.230.42.86    | TCP                           64979 (Unknown) → 443 (http protocol over TLS/SSL)       |    343B | Domain: server-54-230-42-86.bkk51.r.cloudfront.net
+[IN]  54.230.42.86    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 64979 (Unknown)                        |      0B | Domain: HUGO-PC
+[IN]  54.230.42.86    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 64979 (Unknown)                        |    147B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 54.230.42.86    | TCP                           64979 (Unknown) → 443 (http protocol over TLS/SSL)       |    156B | Domain: server-54-230-42-86.bkk51.r.cloudfront.net
+[IN]  54.230.42.86    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 64979 (Unknown)                        |      0B | Domain: HUGO-PC
+[IN]  54.230.42.86    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 64979 (Unknown)                        |    694B | Domain: HUGO-PC
+[IN]  199.46.35.127   → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 64864 (Unknown)                        |     24B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 199.46.35.127   | TCP                           64864 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B
+[IN]  98.83.2.84      → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 64984 (Unknown)                        |      0B | Domain: HUGO-PC
+[IN]  98.83.2.84      → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 64984 (Unknown)                        |    179B | Domain: HUGO-PC
+[IN]  98.83.2.84      → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 64984 (Unknown)                        |      0B | Domain: HUGO-PC
+[IN]  98.83.2.84      → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 64984 (Unknown)                        |    203B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 98.83.2.84      | TCP                           64984 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B | Domain: ec2-98-83-2-84.compute-1.amazonaws.com
+[OUT] 192.168.1.39    → 239.255.255.250 | UDP                           55310 (Unknown) → 3702 (Web Service Discovery)           |    656B
+[ALERT] Unusual port 3702 (Web Service Discovery)
+[IN]  140.82.113.25   → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 52249 (Unknown)                        |     25B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 140.82.113.25   | TCP                           52249 (Unknown) → 443 (http protocol over TLS/SSL)       |     29B | Domain: lb-140-82-113-25-iad.github.com
+[OUT] 192.168.1.39    → 192.168.1.255   | UDP                             889 (Unknown) → 889 (Unknown)                          |   1420B
+[ALERT] Unusual port 889 (Unknown)
+[ALERT] Unusual port 889 (Unknown)
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     44B | Domain: mdns.mcast.net
+[IN]  192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     44B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     44B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     44B | Domain: mdns.mcast.net
+[IN]  192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     44B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.252     | UDP                           53998 (Unknown) → 5355 (LLMNR)                           |     44B
+[ALERT] Unusual port 5355 (LLMNR)
+[OUT] 192.168.1.39    → 192.168.1.255   | UDP                             889 (Unknown) → 889 (Unknown)                          |   1420B
+[ALERT] Unusual port 889 (Unknown)
+[ALERT] Unusual port 889 (Unknown)
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     44B | Domain: mdns.mcast.net
+[IN]  192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     44B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     44B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.252     | UDP                           64752 (Unknown) → 5355 (LLMNR)                           |     44B
+[ALERT] Unusual port 5355 (LLMNR)
+[IN]  162.159.133.234 → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 60193 (Unknown)                        |    109B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 162.159.133.234 | TCP                           60193 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B
+[OUT] 192.168.1.39    → 13.107.4.254    | TCP                           59877 (Unknown) → 443 (http protocol over TLS/SSL)       |      1B
+[IN]  162.159.133.234 → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 60193 (Unknown)                        |    112B | Domain: HUGO-PC
+[IN]  162.159.133.234 → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 60193 (Unknown)                        |     51B | Domain: HUGO-PC
+[IN]  162.159.133.234 → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 60193 (Unknown)                        |     51B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 162.159.133.234 | TCP                           60193 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B
+[OUT] 192.168.1.39    → 162.159.133.234 | TCP                           60193 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B
+[OUT] 192.168.1.39    → 54.230.42.97    | TCP                           58155 (Unknown) → 443 (http protocol over TLS/SSL)       |      1B | Domain: server-54-230-42-97.bkk51.r.cloudfront.net
+[IN]  54.230.42.97    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 58155 (Unknown)                        |      0B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 103.10.124.5    | TCP                           51871 (Unknown) → 27019 (Unknown)                        |     54B | Domain: 103-10-124-5.valve.net
+[ALERT] Unusual port 27019 (Unknown)
+[IN]  103.10.124.5    → 192.168.1.39    | TCP                           27019 (Unknown) → 51871 (Unknown)                        |      0B | Domain: HUGO-PC
+[ALERT] Unusual port 27019 (Unknown)
+[OUT] 192.168.1.39    → 140.82.113.25   | TCP                           52249 (Unknown) → 443 (http protocol over TLS/SSL)       |      1B | Domain: lb-140-82-113-25-iad.github.com
+[IN]  140.82.113.25   → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 52249 (Unknown)                        |      0B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 162.159.133.234 | TCP                           60193 (Unknown) → 443 (http protocol over TLS/SSL)       |    118B
+[OUT] 192.168.1.39    → 52.168.117.174  | TCP                           55799 (Unknown) → 443 (http protocol over TLS/SSL)       |      1B
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |    300B | Domain: mdns.mcast.net
+[IN]  192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |    300B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |    300B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     43B | Domain: mdns.mcast.net
+[IN]  192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     43B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     43B | Domain: mdns.mcast.net
+[IN]  192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     43B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     43B | Domain: mdns.mcast.net
+[IN]  192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     43B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     43B | Domain: mdns.mcast.net
+[IN]  192.168.1.39    → 224.0.0.251     | UDP                      5353 (Multicast DNS) → 5353 (Multicast DNS)                   |     43B | Domain: mdns.mcast.net
+[OUT] 192.168.1.39    → 192.168.1.1     | UDP                137 (NETBIOS Name Service) → 137 (NETBIOS Name Service)             |     68B
+[ALERT] Unusual port 137 (NETBIOS Name Service)
+[ALERT] Unusual port 137 (NETBIOS Name Service)
+[IN]  192.168.1.36    → 192.168.1.39    | UDP                               1900 (SSDP) → 50449 (Unknown)                        |    291B | Domain: HUGO-PC
+[ALERT] Unusual port 1900 (SSDP)
+[IN]  192.168.1.36    → 192.168.1.39    | UDP                               1900 (SSDP) → 50449 (Unknown)                        |    300B | Domain: HUGO-PC
+[ALERT] Unusual port 1900 (SSDP)
+[IN]  192.168.1.36    → 192.168.1.39    | UDP                               1900 (SSDP) → 50449 (Unknown)                        |    294B | Domain: HUGO-PC
+[ALERT] Unusual port 1900 (SSDP)
+[OUT] 192.168.1.39    → 192.168.1.1     | UDP                137 (NETBIOS Name Service) → 137 (NETBIOS Name Service)             |     68B
+[ALERT] Unusual port 137 (NETBIOS Name Service)
+[ALERT] Unusual port 137 (NETBIOS Name Service)
+[IN]  192.168.1.36    → 192.168.1.39    | UDP                               1900 (SSDP) → 50449 (Unknown)                        |    300B | Domain: HUGO-PC
+[ALERT] Unusual port 1900 (SSDP)
+[OUT] 192.168.1.39    → 192.168.1.1     | UDP                137 (NETBIOS Name Service) → 137 (NETBIOS Name Service)             |     68B
+[ALERT] Unusual port 137 (NETBIOS Name Service)
+[ALERT] Unusual port 137 (NETBIOS Name Service)
+[OUT] 192.168.1.39    → 103.10.124.5    | TCP                           51871 (Unknown) → 27019 (Unknown)                        |     54B | Domain: 103-10-124-5.valve.net
+[ALERT] Unusual port 27019 (Unknown)
+[IN]  103.10.124.5    → 192.168.1.39    | TCP                           27019 (Unknown) → 51871 (Unknown)                        |      0B | Domain: HUGO-PC
+[ALERT] Unusual port 27019 (Unknown)
+[OUT] 192.168.1.39    → 13.107.4.254    | TCP                           59877 (Unknown) → 443 (http protocol over TLS/SSL)       |      1B
+[IN]  162.159.133.234 → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 60193 (Unknown)                        |     47B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 162.159.133.234 | TCP                           60193 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B
+[IN]  162.159.133.234 → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 60193 (Unknown)                        |     43B | Domain: HUGO-PC
+[OUT] 192.168.1.39    → 162.159.133.234 | TCP                           60193 (Unknown) → 443 (http protocol over TLS/SSL)       |      0B
+[OUT] 192.168.1.39    → 54.230.42.97    | TCP                           58155 (Unknown) → 443 (http protocol over TLS/SSL)       |      1B | Domain: server-54-230-42-97.bkk51.r.cloudfront.net
+[IN]  54.230.42.97    → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 58155 (Unknown)                        |      0B | Domain: HUGO-PC
+[IN]  104.208.16.91   → 192.168.1.39    | TCP          443 (http protocol over TLS/SSL) → 60556 (Unknown)                        |     99B | Domain: HUGO-PC
